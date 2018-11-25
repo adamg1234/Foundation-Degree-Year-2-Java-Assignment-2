@@ -1,0 +1,126 @@
+S T O C K
+
+
+----------------------------------
+
+
+ID:		Manufacturer:	Name:			Category:	    NoSold:		No In Stock:   Cost:   Selling Price:		
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+QWE1234          Adams Pharamcey        adasdad              Weight Loss           7          3           20.00       2.50      
+
+BEN12345         Ben Insurance          lsd                  Vitamins              10         40          100.00      5.00      
+
+CKN1233          body mass              Chicken              Weight Loss           5          5           30.00       3.40      
+
+ADA12345         Under Armour           Shark Stimulants     Weight Loss           10         10          10.00       20.00     
+
+as1234567        aashabsda              asasa                Vitamins              0          10          2.00        1.00      
+
+
+
+
+
+
+
+NUTRION
+
+
+ID:		Manufacturer:	Name:			Category:	    NoSold:		No In Stock:   Cost:   Selling Price:		
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Total Price:  
+£0.0
+
+
+
+
+
+
+
+SUPPLEMENTS
+
+
+ID:		Manufacturer:	Name:			Category:	    NoSold:		No In Stock:   Cost:   Selling Price:		
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Total Price: 
+£0.0
+
+
+
+
+
+
+
+VITAMINS
+
+
+ID:		Manufacturer:	Name:			Category:	    NoSold:		No In Stock:   Cost:   Selling Price:		
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+BEN12345         Ben Insurance          lsd                  Vitamins              10         40          100.00      5.00      
+as1234567        aashabsda              asasa                Vitamins              0          10          2.00        1.00      
+
+
+
+
+
+Total Price: 
+£50.0
+
+
+
+WEIGHTLOSS
+
+
+ID:		Manufacturer:	Name:			Category:	    NoSold:		No In Stock:   Cost:   Selling Price:		
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+QWE1234          Adams Pharamcey        adasdad              Weight Loss           7          3           20.00       2.50      
+
+CKN1233          body mass              Chicken              Weight Loss           5          5           30.00       3.40      
+
+ADA12345         Under Armour           Shark Stimulants     Weight Loss           10         10          10.00       20.00     
+
+
+
+
+
+
+Total Price:
+£234.5
+
+
+
+ACCESSORIES
+
+
+ID:		Manufacturer:	Name:			Category:	    NoSold:		No In Stock:   Cost:   Selling Price:		
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Total Price: 
+£0.0
